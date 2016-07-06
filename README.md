@@ -9,12 +9,12 @@ http://www.lslutnfra.com/curso-nodejs
 
 Instalar dependencias de node:
 
-npm install
+`npm install`
 
 Correr los test
 
-mocha
+`mocha`
 
 Levantar servidor del Web Service
 
-nodejs index.js
+`nodejs index.js`
